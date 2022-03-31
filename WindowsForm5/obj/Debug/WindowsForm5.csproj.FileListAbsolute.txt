@@ -1,0 +1,10 @@
+C:\Users\gamze\OneDrive\Masaüstü\WindowsFormUygulaması\WindowsForm5\WindowsForm5\bin\Debug\WindowsForm5.exe.config
+C:\Users\gamze\OneDrive\Masaüstü\WindowsFormUygulaması\WindowsForm5\WindowsForm5\bin\Debug\WindowsForm5.exe
+C:\Users\gamze\OneDrive\Masaüstü\WindowsFormUygulaması\WindowsForm5\WindowsForm5\bin\Debug\WindowsForm5.pdb
+C:\Users\gamze\OneDrive\Masaüstü\WindowsFormUygulaması\WindowsForm5\WindowsForm5\obj\Debug\WindowsForm5.csproj.AssemblyReference.cache
+C:\Users\gamze\OneDrive\Masaüstü\WindowsFormUygulaması\WindowsForm5\WindowsForm5\obj\Debug\WindowsForm5.Form1.resources
+C:\Users\gamze\OneDrive\Masaüstü\WindowsFormUygulaması\WindowsForm5\WindowsForm5\obj\Debug\WindowsForm5.Properties.Resources.resources
+C:\Users\gamze\OneDrive\Masaüstü\WindowsFormUygulaması\WindowsForm5\WindowsForm5\obj\Debug\WindowsForm5.csproj.GenerateResource.cache
+C:\Users\gamze\OneDrive\Masaüstü\WindowsFormUygulaması\WindowsForm5\WindowsForm5\obj\Debug\WindowsForm5.csproj.CoreCompileInputs.cache
+C:\Users\gamze\OneDrive\Masaüstü\WindowsFormUygulaması\WindowsForm5\WindowsForm5\obj\Debug\WindowsForm5.exe
+C:\Users\gamze\OneDrive\Masaüstü\WindowsFormUygulaması\WindowsForm5\WindowsForm5\obj\Debug\WindowsForm5.pdb
